@@ -1,0 +1,41 @@
+
+.container{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.arriba{
+    position: absolute;
+    top: 25%;
+    left: 30px;
+}
+.redondo{
+    left: 10%;
+    justify-content: center;
+    width: 120px;
+    height: 20px;
+    border-radius:10px;
+  }
+  .text{
+      color: white;
+  }
+  .texts{
+    color: white;
+    text-align:left !important;
+    left: 0px !important;
+}
+.redond{
+    color: black;
+    font-size:larger;
+    background-color: yellow;
+    left: 10%;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    border-radius:15px;
+  }
+  .arriba2{
+    position: absolute;
+    top: 30%;
+    left: 80px;
+}
